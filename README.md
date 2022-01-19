@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student at UCI studying Computer Science!
+
 <!--
 **ChaseC99/ChaseC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
