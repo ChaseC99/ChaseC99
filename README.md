@@ -1,5 +1,5 @@
 # Hi, I'm Chase 👋
-[![Website Profile](https://img.shields.io/badge/-Homepage-white?style=flat&logoColor=white&link=https://www.linkedin.com/in/chasecarnaroli/)](https://linkedin.com/in/chasecarnaroli)
+[![Website Profile](https://img.shields.io/badge/-Homepage-white?style=flat&logoColor=white&link=https://chasecarnaroli.com)](https://chasecarnaroli.com)
 [![LinkedIn Profile](https://img.shields.io/badge/-ChaseCarnaroli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chasecarnaroli/)](https://linkedin.com/in/chasecarnaroli)
 [![Twitter Badge](https://img.shields.io/badge/-@ChaseCarnaroli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chasecarnaroli)](https://twitter.com/chasecarnaroli)
 [![Instagram Badge](https://img.shields.io/badge/-@chasing_chase99-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chasing_chase99/)](https://instagram.com/chasing_chase99)
