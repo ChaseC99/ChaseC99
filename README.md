@@ -1,6 +1,10 @@
-### Hi there 👋
-
-I'm a student at UCI studying Computer Science!
+# Hi, I'm Chase 👋
+[![Website Profile](https://img.shields.io/badge/-Homepage-white?style=flat&logoColor=white&link=https://www.linkedin.com/in/chasecarnaroli/)](https://linkedin.com/in/chasecarnaroli)
+[![LinkedIn Profile](https://img.shields.io/badge/-ChaseCarnaroli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chasecarnaroli/)](https://linkedin.com/in/chasecarnaroli)
+[![Twitter Badge](https://img.shields.io/badge/-@ChaseCarnaroli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chasecarnaroli)](https://twitter.com/chasecarnaroli)
+[![Instagram Badge](https://img.shields.io/badge/-@chasing_chase99-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/chasing_chase99/)](https://instagram.com/chasing_chase99)
+[![Apple Badge](https://img.shields.io/badge/-iOS%20Apps-black?style=flat&logo=apple&logoColor=white&link=https://apps.apple.com/us/developer/chase-carnaroli/id1412627170)](https://apps.apple.com/us/developer/chase-carnaroli/id1412627170)
+[![ENS Profile](https://img.shields.io/badge/-chasec.eth-gray?style=flat&logo=ethereum&logoColor=white&link=https://chasec.eth.xyz)](https://chasec.eth.xyz)
 
 <!--
 **ChaseC99/ChaseC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
